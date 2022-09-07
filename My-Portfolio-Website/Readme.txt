@@ -1,0 +1,1 @@
+This is just a simple portfolio website to showcase somne skills, feel free to use it as you wish.
